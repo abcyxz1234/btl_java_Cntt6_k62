@@ -8,4 +8,4 @@
 - Bước 1: Trên cửa sổ Github, chọn "<> Code" -> Download Zip. File code sẽ được tải về máy dưới dạng tệp zip. <br>
 - Bước 2: Giải nén tệp vừa tải. Trong cửa sổ Visual Studio Code, chọn File -> Open Folder. Sau đó chọn vị trí của thư mục vừa giải nén. <br>
 - Bước 3: Sau khi Visual Studio Code mở thư mục thành công, chọn file "Main.java" tại thanh điều hướng bên trái. <br>
-- Bước 4: Sau khi mở file code thành công, click chuột phải, chọn ```"Run Java"```. Sau giây lát chương trình đã được khởi chạy. <br>
+- Bước 4: Sau khi mở file code thành công, click chuột phải, chọn "Run Java". Sau giây lát chương trình đã được khởi chạy. <br>
