@@ -5,4 +5,4 @@
 
 <h2> Hướng dẫn chạy chương trình </h2>
 - Bước 0: Mở Visual Studio Code. (Cài đặt nếu chưa cài sẵn trên máy) <br>
-- Bước 1: Trên cửa sổ Github, chọn  <a style="color: green"> "<> Code" </a> <br>
+- Bước 1: Trên cửa sổ Github, chọn  <span style="color: green"> "<> Code" </span> <br>
